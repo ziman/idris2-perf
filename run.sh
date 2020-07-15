@@ -3,7 +3,7 @@
 set -euo pipefail
 
 rm -rf build
-for i in {countdown,pythag}-{interp,monad}; do
+for i in {countdown,pythag}-{int,integer}-{interp,monad}; do
 	idris2 --codegen malfunction ${i}.idr -o ${i}
 
 	echo -e "=== ${i} ===\n"
