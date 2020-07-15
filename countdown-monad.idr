@@ -9,4 +9,4 @@ countdown
                     countdown
 
 main : IO ()
-main = printLn (runState countdown 500000000)
+main = printLn (runState countdown 50000000)

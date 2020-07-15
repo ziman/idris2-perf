@@ -20,4 +20,4 @@ countdownI
                     countdownI
 
 main : IO ()
-main = printLn (runStateI countdownI 500000000)
+main = printLn (runStateI countdownI 50000000)
