@@ -2,63 +2,158 @@
 
 ((), 0)
 
-((), 0)
+real	0m9.663s
+user	0m9.604s
+sys	0m0.007s
 
 ((), 0)
+
+real	0m8.485s
+user	0m8.452s
+sys	0m0.007s
+
+((), 0)
+
+real	0m8.741s
+user	0m8.723s
+sys	0m0.000s
 
 === countdown-int-monad ===
 
 ((), 0)
 
-((), 0)
+real	0m8.331s
+user	0m8.303s
+sys	0m0.010s
 
 ((), 0)
+
+real	0m8.226s
+user	0m8.201s
+sys	0m0.007s
+
+((), 0)
+
+real	0m8.191s
+user	0m8.173s
+sys	0m0.000s
 
 === countdown-integer-interp ===
 
 ((), 0)
 
-((), 0)
+real	0m1.613s
+user	0m1.573s
+sys	0m0.020s
 
 ((), 0)
+
+real	0m1.478s
+user	0m1.471s
+sys	0m0.003s
+
+((), 0)
+
+real	0m1.543s
+user	0m1.535s
+sys	0m0.003s
 
 === countdown-integer-monad ===
 
 ((), 0)
 
-((), 0)
+real	0m1.469s
+user	0m1.454s
+sys	0m0.003s
 
 ((), 0)
+
+real	0m1.368s
+user	0m1.364s
+sys	0m0.000s
+
+((), 0)
+
+real	0m1.368s
+user	0m1.361s
+sys	0m0.003s
 
 === pythag-int-interp ===
 
 881
 
-881
+real	0m48.770s
+user	0m48.626s
+sys	0m0.000s
 
 881
+
+real	0m48.539s
+user	0m48.218s
+sys	0m0.045s
+
+881
+
+real	0m48.879s
+user	0m48.484s
+sys	0m0.075s
 
 === pythag-int-monad ===
 
 881
 
-881
+real	0m42.525s
+user	0m42.375s
+sys	0m0.010s
 
 881
+
+real	0m42.605s
+user	0m42.228s
+sys	0m0.085s
+
+881
+
+real	0m42.969s
+user	0m42.727s
+sys	0m0.020s
 
 === pythag-integer-interp ===
 
 881
 
-881
+real	0m19.255s
+user	0m19.169s
+sys	0m0.007s
 
 881
+
+real	0m18.685s
+user	0m18.557s
+sys	0m0.026s
+
+881
+
+real	0m17.742s
+user	0m17.699s
+sys	0m0.000s
 
 === pythag-integer-monad ===
 
 881
 
-881
+real	0m14.764s
+user	0m14.720s
+sys	0m0.007s
 
 881
 
+real	0m14.439s
+user	0m14.401s
+sys	0m0.004s
+
+881
+
+real	0m14.909s
+user	0m14.871s
+sys	0m0.000s
