@@ -1,0 +1,64 @@
+=== countdown-int-interp ===
+
+((), 0)
+
+((), 0)
+
+((), 0)
+
+=== countdown-int-monad ===
+
+((), 0)
+
+((), 0)
+
+((), 0)
+
+=== countdown-integer-interp ===
+
+((), 0)
+
+((), 0)
+
+((), 0)
+
+=== countdown-integer-monad ===
+
+((), 0)
+
+((), 0)
+
+((), 0)
+
+=== pythag-int-interp ===
+
+881
+
+881
+
+881
+
+=== pythag-int-monad ===
+
+881
+
+881
+
+881
+
+=== pythag-integer-interp ===
+
+881
+
+881
+
+881
+
+=== pythag-integer-monad ===
+
+881
+
+881
+
+881
+
